@@ -1,0 +1,16 @@
+Index: src/test/resources/features/academyChoucair.feature
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test/resources/features/academyChoucair.feature	(date 1613692122133)
++++ src/test/resources/features/academyChoucair.feature	(date 1613692122133)
+@@ -1,6 +1,6 @@
+-# Autor: Fabian Chaparro
++# Autor: FabianChaparro
+   @stories
+-  Feature: Acedemy Choucair
++  Feature: Academy Choucair
+     As a user, I want to learn how to automate in screamplay at the Choucair Academy with the automation course
+     @scenario1
+     Scenario: Search for a automation course
